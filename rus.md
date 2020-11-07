@@ -793,4 +793,5 @@ PowerShell에서 함수를 작성하는 모든 구문은 특히 이제 막 시�
 [about_Functions_Advanced]: /powershell/module/microsoft.powershell.core/about/about_functions_advanced
 [about_Try_Catch_Finally]: /powershell/module/microsoft.powershell.core/about/about_try_catch_finally
 [about_Comment_Based_Help]: /powershell/module/microsoft.powershell.core/about/about_comment_based_help
-[비디오: 고급 함수 및 스크립트 모듈을 사용하여 PowerShell 도구 작성]: https://mikefrobbins.com/2016/05/26/video-powershell-toolmaking-with-advanced-functions-and-script-modules/) [파스칼식 대/소문자]: /dotnet/standard/design-guidelines/capitalization-conventionss
+[비디오: 고급 함수 및 스크립트 모듈을 사용하여 PowerShell 도구 작성]: https://mikefrobbins.com/2016/05/26/video-powershell-toolmaking-with-advanced-functions-and-script-modules/
+[파스칼식 대/소문자]: /dotnet/standard/design-guidelines/capitalization-conventionss
