@@ -352,4 +352,4 @@ Get-CimSession | Remove-CimSession
 [about_WQL]: /powershell/module/microsoft.powershell.core/about/about_wql
 [Модуль CimCmdlets]: /powershell/module/cimcmdlets/
 [Видео: Использование командлетов CIM и сеансов CIM]: https://mikefrobbins.com/2013/09/12/phillyposh-user-group-meeting-presentation-follow-up-powershell-second-hop-problem-with-cimsessions/
-[PowerShell Function to Create CimSessions to Remote Computers with Fallback to Dcom]: https://mikefrobbins.com/2014/08/28/powershell-function-to-create-cimsessions-to-remote-computers-with-fallback-to-dcom/ (Использование функции PowerShell для создания параметров CimSession на удаленных компьютерах с помощью отката и DCOM).
+[PowerShell Function to Create CimSessions to Remote Computers with Fallback to Dcom]: https://mikefrobbins.com/2014/08/28/powershell-function-to-create-cimsessions-to-remote-computers-with-fallback-to-dcom/
